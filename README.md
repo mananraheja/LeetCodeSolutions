@@ -9,3 +9,9 @@ Make your own branch and push your solution files (.cpp, .py, .js, .java etc) al
 Push your code and description to YOUR BRANCH ONLY, 
 
 !! DO NOT PUSH TO MAIN !!
+
+## Additional Guidelines
+
+- Adhere to good coding standards / practices.
+- Add enough comments for clear explanation.
+- Have fun and collaborate : it is always a good idea to discuss your doubts and help others.
