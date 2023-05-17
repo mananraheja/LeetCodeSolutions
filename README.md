@@ -15,6 +15,9 @@ Push your code and description to YOUR BRANCH ONLY !!
 ## Additional Guidelines
 
 - Adhere to good coding standards / practices.
+- Try solving the problem as much as possible yourself, on paper / white board, and then code it up.
 - Add enough comments for clear explanation.
 - Try solving the same problem from a variety of approaches.
 - Have fun and collaborate : it is always a good idea to discuss your doubts and help others.
+- Filenames should be something simple and obvious - like manan_1207 (<your name>_<problem number>) and manan_1207_help for the algorithm explanation.
+- Solution explanations may be provided on a need to know basis.
