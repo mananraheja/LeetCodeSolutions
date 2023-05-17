@@ -2,7 +2,7 @@
 
 View / add problems in ListOfProblems.xlsx
 
-Make sure you mention the problem name, difficulty and link. 
+Make sure you mention the problem name, difficulty, topic(s) and link. 
 
 Make your own branch and push your solution files (.cpp, .py, .js, .java etc) along with your (optional but recommended for future reference) algorithm explanation (.txt, .docx etc).
 
